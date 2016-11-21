@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: devconnect-1121
+  host: devconnect-1121
+  disk_quota: 1024M
